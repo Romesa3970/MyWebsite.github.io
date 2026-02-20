@@ -1,1 +1,2 @@
-const affiliateLink = "https://www.digistore24.com/product/504626/Rosehook/";
+const affiliateLink = "https://www.checkout-ds24.com/redir/541655/Rosehook/";
+
