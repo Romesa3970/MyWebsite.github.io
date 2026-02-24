@@ -1,4 +1,5 @@
-const affiliateLink = "https://www.digistore24.com/product/504612/Rosehook/";
+const affiliateLink = "https://onelink.shein.com/30/5hgzbo05ewbi";
+
 
 
 
